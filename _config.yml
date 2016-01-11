@@ -1,0 +1,28 @@
+name: valuepm
+favicon: null
+layout_spectrum: 0.006803282769396901
+typography_spectrum: 0.3219506782479584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9063625077251345
+  lightness: 0.9477838522288948
+  saturation: 0.838658748427406
+  rhythmicContrast: 0.9808392005506903
+purpose: []
